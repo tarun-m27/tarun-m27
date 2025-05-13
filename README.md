@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shashank (aka Shanks) and I'm a Full-Stack Developer (backend-biased) & Computer Science student from Bengaluru, India.</p>
+<p align="left">My name is Tarun and I'm a Full-Stack Developer  & Computer Science student from Bengaluru, India.</p>
 
 ###
 
@@ -14,7 +14,6 @@
 ✨ Creating bugs since 2022<br>
 📚 I'm currently learning AWS, Java, and enhancing my DSA skills<br>
 🎯 Goals: To be a real-world problem solver through code<br>
-🎲 Fun fact: I don't get mad 😄
 </p>
 
 ###
